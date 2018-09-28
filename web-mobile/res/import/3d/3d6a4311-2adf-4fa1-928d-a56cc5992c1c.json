@@ -1,1 +1,0 @@
-{"__type__":"cc.JsonAsset","_name":"init","json":{"player":{"gold":100,"house_num":3},"house":[{"id":1,"name":"兵营","desc":"desc","gold":100,"level":1,"cdTime":10,"passTime":0},{"id":2,"name":"食堂","desc":"desc","gold":200,"level":1,"cdTime":20,"passTime":0},{"id":3,"name":"食堂2","desc":"desc","gold":300,"level":1,"cdTime":30,"passTime":0}]}}
